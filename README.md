@@ -1,3 +1,11 @@
-# Hello world
+# IASC 2P02 | Alex Christie
 
-This is the readme file for my IASC 2P01 web portfolio.
+## About me
+
+I am an Assistant PRofessor of Digital Prototyping at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
+
+![](imagez/manatees.jpg)
+
+## Blog post
+
+First sentence of blog post goes here... 
