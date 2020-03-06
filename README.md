@@ -2,7 +2,7 @@
 
 ## About me
 
-I am an Assistant PRofessor of Digital Prototyping at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
+I am an Assistant Professor of Digital Prototyping at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
 
 ![](imagez/manatees.jpg)
 
